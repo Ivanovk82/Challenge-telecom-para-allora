@@ -19,8 +19,3 @@ Este repositorio contiene un proyecto de análisis orientado a investigar y redu
 * **`seaborn`**: 
 
 
-3.  **Análisis Exploratorio de Datos (EDA):**
-    * Cálculo de la tasa general de churn.
-    * Análisis de la distribución de churn por variables categóricas.
-    * Análisis de la distribución de churn por variables numéricas, utilizando estadísticas descriptivas, histogramas y box plots para identificar patrones.
-    
